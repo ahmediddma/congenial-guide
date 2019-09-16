@@ -1,2 +1,2 @@
 # congenial-guide
-Track the new Icon Retailer development
+Track the new Icon Retail development
